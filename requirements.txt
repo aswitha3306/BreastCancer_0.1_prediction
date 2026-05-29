@@ -5,3 +5,8 @@ scikit-learn
 matplotlib
 seaborn
 gunicorn
+opencv-python-headless
+ultralytics
+face-recognition
+dlib
+cmake
